@@ -1,0 +1,14 @@
+/Users/nergiznadirli/Desktop/homework1501/homework1501/obj/Debug/netcoreapp3.1/homework1501.csproj.AssemblyReference.cache
+/Users/nergiznadirli/Desktop/homework1501/homework1501/obj/Debug/netcoreapp3.1/homework1501.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nergiznadirli/Desktop/homework1501/homework1501/obj/Debug/netcoreapp3.1/homework1501.AssemblyInfoInputs.cache
+/Users/nergiznadirli/Desktop/homework1501/homework1501/obj/Debug/netcoreapp3.1/homework1501.AssemblyInfo.cs
+/Users/nergiznadirli/Desktop/homework1501/homework1501/obj/Debug/netcoreapp3.1/homework1501.csproj.CoreCompileInputs.cache
+/Users/nergiznadirli/Desktop/homework1501/homework1501/bin/Debug/netcoreapp3.1/homework1501
+/Users/nergiznadirli/Desktop/homework1501/homework1501/bin/Debug/netcoreapp3.1/homework1501.deps.json
+/Users/nergiznadirli/Desktop/homework1501/homework1501/bin/Debug/netcoreapp3.1/homework1501.runtimeconfig.json
+/Users/nergiznadirli/Desktop/homework1501/homework1501/bin/Debug/netcoreapp3.1/homework1501.runtimeconfig.dev.json
+/Users/nergiznadirli/Desktop/homework1501/homework1501/bin/Debug/netcoreapp3.1/homework1501.dll
+/Users/nergiznadirli/Desktop/homework1501/homework1501/bin/Debug/netcoreapp3.1/homework1501.pdb
+/Users/nergiznadirli/Desktop/homework1501/homework1501/obj/Debug/netcoreapp3.1/homework1501.dll
+/Users/nergiznadirli/Desktop/homework1501/homework1501/obj/Debug/netcoreapp3.1/homework1501.pdb
+/Users/nergiznadirli/Desktop/homework1501/homework1501/obj/Debug/netcoreapp3.1/homework1501.genruntimeconfig.cache
